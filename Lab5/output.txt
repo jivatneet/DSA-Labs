@@ -1,0 +1,1 @@
+Total time for reading records is 150.204000 ms

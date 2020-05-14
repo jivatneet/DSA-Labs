@@ -1,0 +1,1 @@
+Total time for insertionSort  is 11667.469000 ms
